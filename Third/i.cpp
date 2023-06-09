@@ -9,16 +9,16 @@ int main()
 
     switch (a) 
     {
-        case 'A':
+        case 'D':
             printf("成绩范围为60~69分\n");
             break;
-        case 'B':
+        case 'C':
             printf("成绩范围为70~79分\n");
             break;
-        case 'C':
+        case 'B':
             printf("成绩范围为80~89分\n");
             break;
-        case 'D':
+        case 'A':
             printf("成绩范围为90~100分\n");
             break;
         default:
